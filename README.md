@@ -1,2 +1,2 @@
-# presentations
-Various Presentations
+# Presentations
+This repository contains various presentations.
